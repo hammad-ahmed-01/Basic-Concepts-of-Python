@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="javascript_logo.png" alt="Logo" width="80" height="80">
+    <img src="Python.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Basic Concepts of Python </h3>
@@ -29,14 +29,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-repository">About The Repository</a></li>
     <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
   </ul>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE REPO -->
 
-## About The Project
+## About The Repository
 
 I have added some programs on the basic concepts of Python for starters. The concepts are regarding Functions, conditional statements, iterations, strings, lists, tuples and dictionaries etc.
 
