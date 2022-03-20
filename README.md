@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="Python.png" alt="Logo" width="80" height="80">
+    <img src="Python.png" alt="Logo" width="190" height="130">
   </a>
 
   <h3 align="center">Basic Concepts of Python </h3>
@@ -54,21 +54,21 @@ Then, the numbers are added and stored in a variable sum. Afterwards sum is divi
 
 After getting the average in a variable avg, if-else elif condition is used to compare the avg in order to assign grade.
 
-The grades, according to the average marks are A,B,C,D,E and F
+The grades, according to the average marks are A,B,C,D,E and F.
 
-if the average is higher than or equal to 90 and smaller than 100, then it will print grade A
+if the average is higher than or equal to 90 and smaller than 100, then it will print grade A.
 
-if the average is higher than or equal to 80 and smaller than 90, then it will print grade B
+if the average is higher than or equal to 80 and smaller than 90, then it will print grade B.
 
-if the average is higher than or equal to 70 and smaller than 80, then it will print grade C 
+if the average is higher than or equal to 70 and smaller than 80, then it will print grade C.
 
-if the average is higher than or equal to 60 and smaller than 70, then it will print grade D 
+if the average is higher than or equal to 60 and smaller than 70, then it will print grade D.
 
-if the average is higher than or equal to 50 and smaller than 60, then it will print grade E 
+if the average is higher than or equal to 50 and smaller than 60, then it will print grade E.
 
-if the average is higher than or equal to 0 and smaller than 50, then it will print grade F 
+if the average is higher than or equal to 0 and smaller than 50, then it will print grade F.
 
-if the average marks are not between 0 to 100, then the else option will be printed, which will give a warning that the numbers entered are wrong
+if the average marks are not between 0 to 100, then the else option will be printed, which will give a warning that the numbers entered are wrong.
 
 
 
