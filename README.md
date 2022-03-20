@@ -14,7 +14,7 @@
     <img src="Python.png" alt="Logo" width="190" height="130">
   </a>
 
-  <h2 align="center">Basic Concepts of Python </h2>
+  <h1 align="center">Basic Concepts of Python </h1>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
