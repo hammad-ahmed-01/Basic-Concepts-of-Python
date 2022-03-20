@@ -49,7 +49,7 @@ I have added some programs on the basic concepts of Python for starters. The con
 
 In this program, conditional if-else, elif statements are used to produce grades on numbers given by the user.
 
-In the first step, five numbers of floating number datatupe in respective subjects are input by the user and stored in five variables.
+In the first step, five numbers of floating number datatype in respective subjects are input by the user and stored in five variables.
 
 Then, the numbers are added and stored in a variable sum. Afterwards sum is divided by the total number of subjects i.e, 5 to get the average.
 
