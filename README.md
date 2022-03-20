@@ -77,7 +77,7 @@ if the average marks are not between 0 to 100, then the else option will be prin
 
 In this program, while-loop is used to repeatedly run the program in a neverending sequence.
 
-In the first step, two variables are initialized with the value 1 and 2 and a while condition is applied that will run the program for unlimited period.
+In the first step, two variables are initialized with the value 1 and 2 and a while condition is applied that will run the program for an unlimited period.
 
 The balance is taken as input from the user as floating point number and stored in a variable balance.
 
