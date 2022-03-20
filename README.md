@@ -31,7 +31,7 @@
   <ul>
     <li><a href="#about-the-repository">About The Repository</a></li>
     <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
-    <li><a href="#banking-withdrawal-and-deposit">Python Concept 2 - Loops and iterations</a></li>
+    <li><a href="#bank-withdrawal-and-deposit">Python Concept 2 - Loops and iterations</a></li>
   </ul>
 </details>
 
@@ -73,7 +73,7 @@ if the average marks are not between 0 to 100, then the else option will be prin
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Banking Withdrawal and Deposit
+## Bank Withdrawal and Deposit
 
 In this program, while-loop is used to repeatedly run the program in a neverending sequence.
 
