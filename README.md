@@ -1,7 +1,7 @@
 # Basic-Concepts-of-Python
 <br>
 <div align="center">
-<img src="C:\Users\Toshiba\Desktop\Python.png" height='100' width='200'>
+<img src="Python.png" alt="logo" height='100' width='200'>
 </div>
 <br>
 <h2> About the repository </h2>
