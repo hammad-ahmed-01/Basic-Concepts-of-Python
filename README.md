@@ -31,6 +31,7 @@
   <ul>
     <li><a href="#about-the-repository">About The Repository</a></li>
     <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
+    <li><a href="#banking-withdrawal-and-deposit">Python Concept 2 - Loops and iterations</a></li>
   </ul>
 </details>
 
@@ -70,11 +71,22 @@ if the average is higher than or equal to 0 and smaller than 50, then it will pr
 
 if the average marks are not between 0 to 100, then the else option will be printed, which will give a warning that the numbers entered are wrong.
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Banking Withdrawal and Deposit
 
+In this program, while-loop is used to repeatedly run the program in a neverending sequence.
 
+In the first step, two variables are initialized with the value 1 and 2 and a while condition is applied that will run the program for unlimited period.
+
+The balance is taken as input from the user as floating point number and stored in a variable balance.
+
+A condition is given to the user to enter 1 or 2 for Withdrawal or Depositing.
+
+If the user types 1, then a certain amount, to be input by the user, would be withdrawed from the balance entered previously.
+
+If the user types 2, then a certain amount, to be input by the user, would be deposited into the balance entered previously.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
