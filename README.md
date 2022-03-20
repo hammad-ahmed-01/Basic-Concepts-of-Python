@@ -14,7 +14,7 @@
     <img src="javascript_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Basic Concept of Python </h3>
+  <h3 align="center">Basic Concepts of Python </h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#Grade Printing">JavaScript Concept 1 - Conditional statements</a></li>
+    <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
   </ul>
 </details>
 
@@ -45,6 +45,7 @@ I have added some programs on the basic concepts of Python for starters. The con
 <!-- USAGE EXAMPLES -->
 
 ## Grade Printing
+
 In this program, conditional if-else, elif statements are used to produce grades on numbers given by the user.
 
 In the first step, five numbers of floating number datatupe in respective subjects are input by the user and stored in five variables.
