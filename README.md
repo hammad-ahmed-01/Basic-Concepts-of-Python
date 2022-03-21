@@ -33,6 +33,8 @@
     <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
     <li><a href="#bank-withdrawal-and-deposit">Python Concept 2 - Loops and iterations</a></li>
     <li><a href="#matrices">Python Concept 3 - Functions</a></li>
+    <li><a href="#list">Python Concept 4 - Lists</a></li>
+    <li><a href="#tuple">Python Concept 5 - Tuples</a></li>
   </ul>
 </details>
 
@@ -111,3 +113,31 @@ Now using the append function in for loop again, the elements of the matrices in
 The list is then again printed in a sequence to form a matrix through the for loop.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## List
+
+In this program, a list is made by user input and the Maximum,Minimum,Sum and Average of the list aree to be find.
+
+In the first step, a list is made by iterating an append function by user input in a for loop.
+
+Two functions, myMax() and myMin() are defined to find Maximum and Minimum number in the list.
+
+Then these functions are called to be printed.
+
+Sum of the list is found through iterating the list in for loop and then the average is calculated and printed.
+
+## Tuple
+
+In this program two tuples are made by user input and are compared. Then the Maximum and Minimum of both tuples are found. Also elements are added in the original tuples to create new ones.
+
+A function tup() is defined in order to create tuples. 
+
+In the function, a list is created by user input using apopend functionin a for loop, then the list is converted to tuple.
+
+Both tuples are created using this function tup().
+
+Then the tuples are compared by if-else condition.
+
+In the next step, minimum and maximum of both tuples are printed using built-in functions min() and max().
+
+At the end both tuples undergo addition of elements and new tuples are created and printed. 
