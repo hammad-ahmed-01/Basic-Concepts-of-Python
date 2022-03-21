@@ -94,7 +94,7 @@ If the user types 2, then a certain amount, to be input by the user, would be de
 
 ## Matrices
 
-In this program, two matrices of same order are created by input from the user and these matrices are added togather to form another matrix.
+In this program, two matrices of same order are created by input from the user and these matrices are added together to form another matrix.
 
 In the first step, a function matrix1() is defined with m,n as perimeteres. then by using the append function in a for loop, the input values are added in the list on that specific position. 
 
