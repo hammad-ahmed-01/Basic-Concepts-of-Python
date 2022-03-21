@@ -134,7 +134,7 @@ In this program two tuples are made by user input and are compared. Then the Max
 
 A function tup() is defined in order to create tuples. 
 
-In the function, a list is created by user input using apopend functionin a for loop, then the list is converted to tuple.
+In the function, a list is created by user input using append function in a for loop, then the list is converted to tuple.
 
 Both tuples are created using this function tup().
 
