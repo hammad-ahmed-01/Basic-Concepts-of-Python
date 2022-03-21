@@ -1,3 +1,6 @@
+# Author == Hammad Ahmed
+# Python IDLE
+
 #a program to enter marks in five subjects and print the grades based on their average
 #taking marks in five subjects as INPUT
 a=float(input(" Enter the marks in first subject : ")) #a represents the marks in first subject
@@ -35,4 +38,3 @@ elif (avg>=0 and avg<50):
 else:
  print(" Write the correct numbers ")
 #if the average marks are not between 0 to 100, then the else option will be printed
- 
