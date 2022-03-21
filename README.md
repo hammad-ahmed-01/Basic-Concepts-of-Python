@@ -126,6 +126,8 @@ Then these functions are called to be printed.
 
 Sum of the list is found through iterating the list in for loop and then the average is calculated and printed.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Tuple
 
 In this program two tuples are made by user input and are compared. Then the Maximum and Minimum of both tuples are found. Also elements are added in the original tuples to create new ones.
@@ -141,3 +143,5 @@ Then the tuples are compared by if-else condition.
 In the next step, minimum and maximum of both tuples are printed using built-in functions min() and max().
 
 At the end both tuples undergo addition of elements and new tuples are created and printed. 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
