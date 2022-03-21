@@ -116,7 +116,7 @@ The list is then again printed in a sequence to form a matrix through the for lo
 
 ## List
 
-In this program, a list is made by user input and the Maximum,Minimum,Sum and Average of the list aree to be find.
+In this program, a list is made by user input and the Maximum,Minimum,Sum and Average of the list are to be find.
 
 In the first step, a list is made by iterating an append function by user input in a for loop.
 
