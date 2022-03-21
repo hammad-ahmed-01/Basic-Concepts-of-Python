@@ -1,13 +1,14 @@
-import random
+# Author == Hammad Ahmed
+# Python IDLE
 
-print(' Creating two 3 by 3 matrices and adding all the elements to create another 3 by 3 matrix ')
+print(' Creating two matrices of same order and adding all the elements to create another matrix ')
 print()
 
 #............................................
 # Creating matrix1
 
 def matrix1(m,n):
- print(' Matrix1 of 3 by 3 order will be created by input from the user !! ')
+ print(' Matrix1 will be created by input from the user !! ')
  print()
  global listmain
  listmain=[]
@@ -30,7 +31,7 @@ matrix1(5,3)
 # Creating matrix2
 
 def matrix2(a,b):
- print(' Matrix2 of 3 by 3 order will be created by input from the user !! ')
+ print(' Matrix2 will be created by input from the user !! ')
  print()
  global listmain2
  listmain2=[]
