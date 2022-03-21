@@ -32,6 +32,7 @@
     <li><a href="#about-the-repository">About The Repository</a></li>
     <li><a href="#grade-printing">Python Concept 1 - Conditional statements</a></li>
     <li><a href="#bank-withdrawal-and-deposit">Python Concept 2 - Loops and iterations</a></li>
+    <li><a href="#matrices">Python Concept 3 - Functions</a></li>
   </ul>
 </details>
 
@@ -89,4 +90,23 @@ If the user types 2, then a certain amount, to be input by the user, would be de
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Matrices
+
+In this program, two matrices of same order are created by input from the user and these matrices are added togather to form another matrix
+
+In the first step, a function matrix1() is defined with m,n as perimeteres. then by using the append function in a for loop, the input values are added in the list on that specific position. 
+
+The elements of the list are printed in position through another for loop to form a matrix.
+
+The function is then called with 5,3 as perimeter 
+
+Another function matrix2() is defined with a,b as perimeteres. then by using the append function in a for loop, the input values are added in the list on that specific position. 
+
+The elements of the list are printed in position through another for loop to form a matrix.
+
+The function is then called with 5,3 as perimeter 
+
+Now using the append function in for loop again, the elements of the matrices in alike positions are added to form a list.
+
+The list is then again printed in a sequence to form a matrix through the for loop.
 
