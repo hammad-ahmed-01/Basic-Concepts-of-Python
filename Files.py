@@ -1,3 +1,6 @@
+# Author == Hammad Ahmed
+# Python IDLE
+
 # The following program is designed to count the number of times a certain word appears in a file:'filen.txt'
 print('\n A program to count the occurences of a word in the file filen.txt .... ')
 print()
@@ -28,9 +31,3 @@ def get_word_frequencies():
     print(dic_count)
 # the function is then called in order to be executed  
 get_word_frequencies()
-
-    
-    
-        
-    
-
