@@ -162,3 +162,6 @@ The list of words are iterated through a for loop ignoring the common words like
 The count of occurence of each word is displayed in a dictionary and printed. 
 
 The function is called at the end for execution.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
