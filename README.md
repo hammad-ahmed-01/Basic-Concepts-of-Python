@@ -35,6 +35,7 @@
     <li><a href="#matrices">Python Concept 3 - Functions</a></li>
     <li><a href="#list">Python Concept 4 - Lists</a></li>
     <li><a href="#tuple">Python Concept 5 - Tuples</a></li>
+    <li><a href="#files">Python Concept 6 - Dictionaries and Files</a></li>
   </ul>
 </details>
 
@@ -145,3 +146,19 @@ In the next step, minimum and maximum of both tuples are printed using built-in 
 At the end both tuples undergo addition of elements and new tuples are created and printed. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Files
+
+This program is designed to count the number of times a certain word appears in a file:'filen.txt'
+
+In the first step, a function get_word_frequencies() is defined in order to count the number of times a certain word appears.
+
+File 'filen.txt' is open and read by built-in functions. 
+
+The words, after converting to lower case and removing commas and full stops, are converted to a list using split function.
+
+The list of words are iterated through a for loop ignoring the common words like the,a etc. 
+
+The count of occurence of each word is displayed in a dictionary and printed. 
+
+The function is called at the end for execution.
